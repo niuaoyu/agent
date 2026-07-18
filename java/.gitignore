@@ -1,0 +1,4 @@
+.ace-tool/
+portfolio/node_modules/
+portfolio/dist/
+portfolio/.slidev/

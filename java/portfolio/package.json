@@ -1,0 +1,15 @@
+{
+  "name": "niuaoyu-portfolio-slides",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "slidev",
+    "build": "slidev build",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^52.18.0",
+    "@slidev/theme-default": "^0.25.0",
+    "vue": "^3.5.17"
+  }
+}
